@@ -6,7 +6,7 @@
 
 3. 打开mongodb
 
-4. postman 添加一些数据
+4. postman 手动添加一些数据到数据库
 http://localhost:4000/savescourse
 body:
 {
@@ -17,4 +17,4 @@ body:
 }
 
 5.
-open http://localhost:4000/graphql
+打开http://localhost:4000/访问
